@@ -15,5 +15,9 @@ public class Second {
         System.out.println("method-3 from new branch in idea");
         System.out.println("method-3 from master in github");
     }
+    
+    public static void method4() {
+        System.out.println("method-4 from github");
+    }
 
 }
