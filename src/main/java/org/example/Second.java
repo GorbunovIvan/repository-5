@@ -10,4 +10,8 @@ public class Second {
         System.out.println("method-2 from github");
         System.out.println("method-2 from idea");
     }
+    
+    public static void method3() {
+        System.out.println("method-3 from master in github");
+    }
 }
