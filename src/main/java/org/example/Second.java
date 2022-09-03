@@ -18,6 +18,7 @@ public class Second {
     
     public static void method4() {
         System.out.println("method-4 from github");
+        System.out.println("method-4 from idea");
     }
 
 }
