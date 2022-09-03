@@ -2,6 +2,7 @@ package org.example;
 
 public class Second {
     public static void doSome() {
+        System.out.println("do some from idea");
         System.out.println("do some from github");
     }
     

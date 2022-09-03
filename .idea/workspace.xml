@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccf6d2e8-150e-4d74-a24c-b7aa6a293329" name="Changes" comment="method-2 from idea sout">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ccf6d2e8-150e-4d74-a24c-b7aa6a293329" name="Changes" comment="do some from idea">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Second.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662202102993</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="do some from idea">
+      <created>1662202880004</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662202880004</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +116,7 @@
     <MESSAGE value="doSome() in Second.java" />
     <MESSAGE value="method2 from idea" />
     <MESSAGE value="method-2 from idea sout" />
-    <option name="LAST_COMMIT_MESSAGE" value="method-2 from idea sout" />
+    <MESSAGE value="do some from idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="do some from idea" />
   </component>
 </project>
