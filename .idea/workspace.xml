@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccf6d2e8-150e-4d74-a24c-b7aa6a293329" name="Changes" comment="doSome() in Second.java">
+    <list default="true" id="ccf6d2e8-150e-4d74-a24c-b7aa6a293329" name="Changes" comment="method2 from idea">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Second.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662201785837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="doSome() in Second.java">
+      <created>1662201936767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662201936767</updated>
+    </task>
+    <task id="LOCAL-00005" summary="method2 from idea">
+      <created>1662202005714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662202005714</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added second class" />
     <MESSAGE value="doSome() in Second.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="doSome() in Second.java" />
+    <MESSAGE value="method2 from idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="method2 from idea" />
   </component>
 </project>
