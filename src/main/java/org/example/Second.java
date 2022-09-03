@@ -4,4 +4,8 @@ public class Second {
     public static void doSome() {
     
     }
+    
+    public static void method2() {
+    
+    }
 }
