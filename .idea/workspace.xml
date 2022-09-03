@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccf6d2e8-150e-4d74-a24c-b7aa6a293329" name="Changes" comment="method-4 from idea" />
+    <list default="true" id="ccf6d2e8-150e-4d74-a24c-b7aa6a293329" name="Changes" comment="method-4 from idea">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,6 +139,7 @@
     <MESSAGE value="do some from idea" />
     <MESSAGE value="do some from idea 2" />
     <MESSAGE value="method-4 from idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="method-4 from idea" />
+    <MESSAGE value="new methods from master" />
+    <option name="LAST_COMMIT_MESSAGE" value="new methods from master" />
   </component>
 </project>
