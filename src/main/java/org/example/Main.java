@@ -10,7 +10,11 @@ public class Main {
     }
     
     public static void method3() {
-        System.out.println("method-2");
+        System.out.println("method-3");
+    }
+    
+    public static void method6() {
+        System.out.println("method-6");
     }
     
 }
