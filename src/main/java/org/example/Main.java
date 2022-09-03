@@ -6,10 +6,10 @@ public class Main {
     }
     
     public static void method4() {
-        System.out.println("method-3");
+        System.out.println("method-4");
     }
     
     public static void method5() {
-        System.out.println("method-4");
+        System.out.println("method-5");
     }
 }
